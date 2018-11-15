@@ -1,0 +1,26 @@
+{
+  "name": "reconnect-websocket",
+  "version": "1.0.0",
+  "description": "reconnect websocket",
+  "main": "ReconnectWebSocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dushaobindoudou/reconnect-websocket.git"
+  },
+  "keywords": [
+    "reconect-websocket",
+    "websocket"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dushaobindoudou/reconnect-websocket/issues"
+  },
+  "homepage": "https://github.com/dushaobindoudou/reconnect-websocket#readme",
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
